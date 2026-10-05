@@ -1,4 +1,4 @@
-<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="1300">
+<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="900">
 
 <div align="center">
 
