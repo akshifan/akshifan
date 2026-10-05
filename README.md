@@ -29,7 +29,7 @@ Building modern, scalable and production-ready web applications with a strong fo
 <img src="https://img.shields.io/badge/GitHub-akshifan-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:akshifan234@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -37,7 +37,7 @@ Building modern, scalable and production-ready web applications with a strong fo
 
 **Currently focused on**
 
-`Java` `Spring Boot` `React` `PostgreSQL` `REST APIs`
+`Java` `Spring Boot` `React` `PostgreSQL` `REST APIs` `Agentic AI`
 
 <br>
 
@@ -104,6 +104,9 @@ A healthcare platform combining preliminary symptom analysis, doctor discovery a
 <a href="https://github.com/akshifan/MediDiag-Online-Preliminary">
 View Project →
 </a>
+<a href="https://medidiag-qkoo.onrender.com">
+View Project →
+</a>
 
 </td>
 
@@ -139,6 +142,9 @@ A multi-tenant service management platform for managing tickets, employees, cust
 <a href="https://github.com/akshifan/Servicedesk360">
 View Project →
 </a>
+<a href="https://servicedesk360-frontend.onrender.com">
+View Project on Live →
+</a>
 
 </td>
 
@@ -173,6 +179,9 @@ A full-stack vehicle rental platform connecting customers with fleet partners.
 
 <a href="https://github.com/akshifan/DriveEase-Car-Rental">
 View Project →
+</a>
+<a href="https://driveease-frontend-su3k.onrender.com">
+View Project on Live →
 </a>
 
 </td>
