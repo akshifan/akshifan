@@ -4,7 +4,7 @@
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="100%">
+<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="400%">
 
 </td>
 <td width="60%" align="left" valign="middle">
