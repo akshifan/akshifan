@@ -104,6 +104,7 @@ A healthcare platform combining preliminary symptom analysis, doctor discovery a
 <a href="https://github.com/akshifan/MediDiag-Online-Preliminary">
 View Project →
 </a>
+<br>
 <a href="https://medidiag-qkoo.onrender.com">
 View Project →
 </a>
@@ -142,6 +143,7 @@ A multi-tenant service management platform for managing tickets, employees, cust
 <a href="https://github.com/akshifan/Servicedesk360">
 View Project →
 </a>
+<br>
 <a href="https://servicedesk360-frontend.onrender.com">
 View Project on Live →
 </a>
@@ -180,6 +182,7 @@ A full-stack vehicle rental platform connecting customers with fleet partners.
 <a href="https://github.com/akshifan/DriveEase-Car-Rental">
 View Project →
 </a>
+<br>
 <a href="https://driveease-frontend-su3k.onrender.com">
 View Project on Live →
 </a>
