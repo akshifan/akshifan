@@ -7,7 +7,7 @@
 <br>
 
 <!-- ASCII PORTRAIT -->
-<img src="./githubProfile.svg" alt="Abdul Khader Shifan" width="380">
+<img src="./githubProfile.svg" alt="Abdul Khader Shifan" width="430">
 
 <br>
 
