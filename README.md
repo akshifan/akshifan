@@ -1,22 +1,21 @@
-<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="1000">
-
 <div align="center">
 
-# ABDUL KHADER SHIFAN
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
 
-### Java Full Stack Developer
+<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="100%">
+
+</td>
+<td width="60%" align="left" valign="middle">
+
+<h1>ABDUL KHADER SHIFAN</h1>
+
+<h3>Java Full Stack Developer</h3>
 
 **Java · Spring Boot · React · PostgreSQL**
 
 Building modern, scalable and production-ready web applications with a strong focus on backend engineering, REST APIs and clean architecture.
-
-<br>
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ak.shifan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ak-shifan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshifan234@gmail.com)
 
 <br>
 
@@ -27,6 +26,18 @@ Building modern, scalable and production-ready web applications with a strong fo
 <br>
 
 **Open to Java Backend & Full Stack opportunities**
+
+<br>
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ak.shifan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ak-shifan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshifan234@gmail.com)
+
+</td>
+</tr>
+</table>
 
 </div>
 
