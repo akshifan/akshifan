@@ -1,49 +1,78 @@
 <div align="center">
 
-# 👋 Hi, I'm Akshifan
-
-### Java Full Stack Developer
-
-**Java • Spring Boot • React • PostgreSQL • REST APIs**
-
-Building modern, scalable and production-ready web applications.
+<table>
+<tr>
+<td width="42%" align="center" valign="middle">
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="githubProfile.svg">
-  <img src="githubProfile.svg" alt="Akshifan's GitHub profile" width="420">
-</picture>
+<!-- ASCII PORTRAIT -->
+<img src="./githubProfile.svg" alt="Abdul Khader Shifan" width="380">
+
+<br>
+
+</td>
+
+<td width="58%" valign="middle">
+
+# ABDUL KHADER SHIFAN
+
+### Java Full Stack Developer
+
+**Java · Spring Boot · React · PostgreSQL**
+
+Building modern, scalable and production-ready web applications with a strong focus on backend engineering, REST APIs and clean architecture.
+
+<br>
+
+<a href="https://github.com/akshifan">
+<img src="https://img.shields.io/badge/GitHub-akshifan-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-akshifan-181717?style=for-the-badge&logo=github)](https://github.com/akshifan)
+**Currently focused on**
+
+`Java` `Spring Boot` `React` `PostgreSQL` `REST APIs`
+
+<br>
+
+**Open to Java Backend & Full Stack opportunities**
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT ME
 
-I'm a **Computer Science Engineering graduate** focused on **Java Full Stack Development**, with a strong interest in backend engineering and scalable web applications.
+I'm a **Computer Science Engineering graduate** passionate about building reliable backend systems and modern full-stack applications.
 
-I enjoy building complete applications — from **database architecture and REST APIs** to **responsive React interfaces**.
+My development approach focuses on:
 
-### Currently focused on
+- Clean and maintainable code
+- Scalable backend architecture
+- RESTful API design
+- Secure authentication and authorization
+- Database design and optimization
+- Responsive and intuitive frontend experiences
 
-- ☕ Java & Spring Boot
-- 🌐 Full Stack Web Development
-- 🔐 REST APIs & JWT Authentication
-- 🗄️ PostgreSQL & Database Design
-- 🧪 Testing & Clean Architecture
-- ☁️ AWS & Cloud Technologies
+I'm currently strengthening my expertise in **Java, Spring Boot, React, PostgreSQL, cloud technologies and production-ready application development.**
 
 ---
 
-## 🚀 Featured Projects
+## FEATURED PROJECTS
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🏥 MediDiag
@@ -52,17 +81,29 @@ I enjoy building complete applications — from **database architecture and REST
 
 A healthcare platform combining preliminary symptom analysis, doctor discovery and online appointment booking.
 
-**Tech**
+**Technology**
 
-`Node.js` `Express` `Python` `Flask` `PostgreSQL` `Machine Learning`
+`Node.js`  
+`Express.js`  
+`Python`  
+`Flask`  
+`PostgreSQL`  
+`Machine Learning`
 
-**Features**
+**Highlights**
 
 - AI-assisted symptom analysis
+- ML-based preliminary prediction
 - Doctor discovery
 - Appointment booking
 - Patient & doctor portals
-- Healthcare chatbot
+- Healthcare assistant
+
+<br>
+
+<a href="https://github.com/akshifan/MediDiag-Online-Preliminary">
+View Project →
+</a>
 
 </td>
 
@@ -72,21 +113,32 @@ A healthcare platform combining preliminary symptom analysis, doctor discovery a
 
 **IT Service Management Platform**
 
-A multi-tenant platform for managing tickets, employees, customers, SLAs and support operations.
+A multi-tenant service management platform for managing tickets, employees, customers, SLAs and support operations.
 
-**Tech**
+**Technology**
 
-`Java` `Spring Boot` `React` `PostgreSQL` `JWT`
+`Java`  
+`Spring Boot`  
+`React`  
+`PostgreSQL`  
+`JWT`
 
-**Features**
+**Highlights**
 
 - Multi-tenant architecture
 - Ticket management
 - SLA tracking
 - Role-based access
+- Priority queues
 - Notifications
 - Dashboards
 - Audit logs
+
+<br>
+
+<a href="https://github.com/akshifan/Servicedesk360">
+View Project →
+</a>
 
 </td>
 
@@ -96,86 +148,143 @@ A multi-tenant platform for managing tickets, employees, customers, SLAs and sup
 
 **Vehicle Rental Platform**
 
-A full-stack vehicle rental platform where customers book vehicles and fleet partners manage their inventory.
+A full-stack vehicle rental platform connecting customers with fleet partners.
 
-**Tech**
+**Technology**
 
-`Java` `Spring Boot` `React` `PostgreSQL` `JWT` `Flyway`
+`Java`  
+`Spring Boot`  
+`React`  
+`PostgreSQL`  
+`JWT`  
+`Flyway`
 
-**Features**
+**Highlights**
 
 - Vehicle catalogue
 - Online booking
 - Fleet management
-- Image galleries
+- Vehicle image galleries
 - JWT authentication
 - Booking concurrency
 - Admin management
 
+<br>
+
+<a href="https://github.com/akshifan/DriveEase-Car-Rental">
+View Project →
+</a>
+
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack
+## TECHNICAL SKILLS
 
-### Backend
+<table>
+<tr>
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-</p>
+<td width="50%" valign="top">
 
-### Frontend
+### Backend Development
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
+`Java`  
+`Spring Boot`  
+`Spring MVC`  
+`REST APIs`  
+`JWT Authentication`  
+`Node.js`  
+`Express.js`
 
-### Database & Tools
+</td>
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-</p>
+<td width="50%" valign="top">
+
+### Frontend Development
+
+`React`  
+`JavaScript`  
+`HTML5`  
+`CSS3`  
+`Tailwind CSS`  
+`Responsive UI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Database & Persistence
+
+`PostgreSQL`  
+`SQL`  
+`JPA / Hibernate`  
+`Flyway`  
+`Database Design`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Tools & Technologies
+
+`Git`  
+`GitHub`  
+`IntelliJ IDEA`  
+`Maven`  
+`AWS`  
+`Agile / Scrum`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+## DEVELOPMENT FOCUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshifan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshifan&layout=compact&theme=transparent&hide_border=true" height="170">
+| Backend | Frontend | Database | Cloud |
+|:---:|:---:|:---:|:---:|
+| ☕ Java | ⚛️ React | 🐘 PostgreSQL | ☁️ AWS |
+| 🌱 Spring Boot | 🟨 JavaScript | 🗄️ SQL | 🚀 Deployment |
+| 🔐 REST APIs | 🎨 Tailwind CSS | 🔄 Flyway | 📦 Production |
 
 </div>
 
 ---
 
-## 🎯 What I'm Looking For
-
-I'm currently looking for opportunities as a:
-
-**Java Backend Developer • Java Full Stack Developer • Spring Boot Developer**
-
-Interested in building reliable backend systems, scalable APIs and modern full-stack applications.
-
----
-
-## 🤝 Let's Connect
+## GITHUB
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-akshifan-181717?style=for-the-badge&logo=github)](https://github.com/akshifan)
+<img src="https://github-readme-stats.vercel.app/api?username=akshifan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165">
 
-**Open to exciting software development opportunities.**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshifan&layout=compact&theme=transparent&hide_border=true" height="165">
 
 </div>
+
+---
+
+## CURRENTLY
+
+```text
+Java + Spring Boot
+        ↓
+REST API Development
+        ↓
+PostgreSQL + JPA
+        ↓
+React Frontend
+        ↓
+Testing + Security
+        ↓
+AWS / Cloud Deployment
