@@ -2,12 +2,12 @@
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="400px">
+<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="400">
 
 </td>
-<td width="60%" align="left" valign="middle">
+<td width="58%" align="left" valign="middle">
 
 <h1>ABDUL KHADER SHIFAN</h1>
 
