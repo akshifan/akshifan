@@ -2,12 +2,12 @@
 
 <table>
 <tr>
-<td width="70%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 <br>
 
 <!-- ASCII PORTRAIT -->
-<img src="./githubProfile.svg" alt="Abdul Khader Shifan" width="430">
+<img src="./githubProfile.svg" alt="Abdul Khader Shifan" width="400">
 
 <br>
 
