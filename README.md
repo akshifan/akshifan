@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="githubProfile.svg">
+  <img alt="Akshifan's GitHub profile" src="dark_mode.svg">
+</picture>
 <!--
 **akshifan/akshifan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
