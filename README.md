@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
+<td width="70%" align="center" valign="middle">
 
 <br>
 
@@ -13,7 +13,7 @@
 
 </td>
 
-<td width="58%" valign="middle">
+<td width="70%" valign="middle">
 
 # ABDUL KHADER SHIFAN
 
