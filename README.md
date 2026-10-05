@@ -1,21 +1,22 @@
+<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="1000">
+
 <div align="center">
 
-<table>
-<tr>
-<td width="42%" align="center" valign="middle">
+# ABDUL KHADER SHIFAN
 
-<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="400px">
-
-</td>
-<td width="58%" align="left" valign="middle">
-
-<h1>ABDUL KHADER SHIFAN</h1>
-
-<h3>Java Full Stack Developer</h3>
+### Java Full Stack Developer
 
 **Java · Spring Boot · React · PostgreSQL**
 
 Building modern, scalable and production-ready web applications with a strong focus on backend engineering, REST APIs and clean architecture.
+
+<br>
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ak.shifan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ak-shifan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshifan234@gmail.com)
 
 <br>
 
@@ -27,18 +28,6 @@ Building modern, scalable and production-ready web applications with a strong fo
 
 **Open to Java Backend & Full Stack opportunities**
 
-<br>
-
-## 🌐 Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ak.shifan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ak-shifan)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshifan234@gmail.com)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -49,12 +38,12 @@ I'm a **Computer Science Engineering graduate** passionate about building reliab
 
 My development approach focuses on:
 
-- Clean and maintainable code
-- Scalable backend architecture
-- RESTful API design
-- Secure authentication and authorization
-- Database design and optimization
-- Responsive and intuitive frontend experiences
+* Clean and maintainable code
+* Scalable backend architecture
+* RESTful API design
+* Secure authentication and authorization
+* Database design and optimization
+* Responsive and intuitive frontend experiences
 
 I'm currently strengthening my expertise in **Java, Spring Boot, React, PostgreSQL, cloud technologies and production-ready application development.**
 
