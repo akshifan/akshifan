@@ -106,7 +106,7 @@ View Project →
 </a>
 <br>
 <a href="https://medidiag-qkoo.onrender.com">
-View Project →
+View Project on Live →
 </a>
 
 </td>
