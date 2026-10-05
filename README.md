@@ -1,3 +1,5 @@
+<img src="./akshifan.dark.svg" alt="Abdul Khader Shifan" width="500">
+
 <div align="center">
 
 <table>
