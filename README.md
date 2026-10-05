@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
+<td width="70%" align="center" valign="middle">
 
 <img src="./card.dark.svg" alt="Abdul Khader Shifan" width="400">
 
