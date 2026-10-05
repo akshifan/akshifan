@@ -4,7 +4,7 @@
 
 
 
-<img src="./akshifan.dark.svg" alt="Abdul Khader Shifan" width="1000">
+<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="1000">
 
 <div align="center">
 
