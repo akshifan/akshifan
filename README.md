@@ -145,6 +145,16 @@ I'm currently strengthening my expertise in **Java, Spring Boot, React, PostgreS
 
 </div>
 
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=akshifan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akshifan&layout=compact&theme=transparent&hide_border=true" height="180" alt="Top Languages"/>
+
+</div>
+
 ---
 
 ## CURRENTLY
