@@ -180,19 +180,3 @@ AWS / Cloud Deployment
 
 
 ---
-
-## ⚡ Animated GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/akshifan/akshifan/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Animated GitHub Contributions"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/akshifan">
-    Explore My GitHub Profile →
-  </a>
-</p>
