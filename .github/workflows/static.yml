@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - "animations/**"
+      - "data/**"
       - ".github/workflows/static.yml"
   workflow_dispatch:
 
@@ -16,7 +17,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: "pages"
+  group: pages
   cancel-in-progress: true
 
 jobs:
@@ -33,11 +34,17 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload website files
+      - name: Prepare website
+        run: |
+          mkdir -p _site/data
+          cp -R animations/. _site/
+          cp data/github.json _site/data/github.json
+
+      - name: Upload website
         uses: actions/upload-pages-artifact@v3
         with:
-          path: animations
+          path: _site
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
