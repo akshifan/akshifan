@@ -161,3 +161,13 @@ React Frontend
 Testing + Security
         ↓
 AWS / Cloud Deployment
+```
+
+
+## ⚡ INTERACTIVE CONTRIBUTION DASHBOARD
+
+Explore my animated GitHub contribution visualizations:
+
+[**🚀 Open Interactive Dashboard**](https://akshifan.github.io/akshifan/)
+
+> Note: Some contribution values in this visual demo are simulated and do not represent verified GitHub activity.
