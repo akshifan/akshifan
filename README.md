@@ -168,7 +168,7 @@ AWS / Cloud Deployment
 
 <p align="center">
   <a href="https://akshifan.github.io/akshifan/">
-    <img src="YOUR-ANIMATED-GIF-URL" width="100%" alt="Animated GitHub Contributions">
+    <img src="./github-activity-lab.gif" width="100%" alt="Animated GitHub Contributions">
   </a>
 </p>
 
