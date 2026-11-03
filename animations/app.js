@@ -864,7 +864,7 @@ controllers.streak = controllers.streakCanvas;
 
 async function main() {
   try {
-    const response = await fetch("../data/github.json");
+    const response = await fetch("./data/github.json");
 
     if (!response.ok) {
       throw new Error(
