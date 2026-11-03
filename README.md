@@ -1,4 +1,4 @@
-<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="900">
+<img src="./githubProfile.svg" alt="Abdul Khader Shifan" width="900">
 
 <div align="center">
 
@@ -174,7 +174,6 @@ AWS / Cloud Deployment
 
 <p align="center">
   <a href="https://akshifan.github.io/akshifan/">
-    Explore the Interactive Contribution Dashboard →
   </a>
 </p>
 
