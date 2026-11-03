@@ -164,10 +164,16 @@ AWS / Cloud Deployment
 ```
 
 
-## ⚡ INTERACTIVE CONTRIBUTION DASHBOARD
+## ⚡ Animated GitHub Contributions
 
-Explore my animated GitHub contribution visualizations:
+<p align="center">
+  <a href="https://akshifan.github.io/akshifan/">
+    <img src="YOUR-ANIMATED-GIF-URL" width="100%" alt="Animated GitHub Contributions">
+  </a>
+</p>
 
-[**🚀 Open Interactive Dashboard**](https://akshifan.github.io/akshifan/)
-
-> Note: Some contribution values in this visual demo are simulated and do not represent verified GitHub activity.
+<p align="center">
+  <a href="https://akshifan.github.io/akshifan/">
+    Explore the Interactive Contribution Dashboard →
+  </a>
+</p>
