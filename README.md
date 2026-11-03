@@ -1,4 +1,4 @@
-<img src="./githubProfile.svg" alt="Abdul Khader Shifan" width="900">
+<img src="./card.dark.svg" alt="Abdul Khader Shifan" width="900">
 
 <div align="center">
 
