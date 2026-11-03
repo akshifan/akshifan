@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0d1117" />
+  <title>GitHub Contribution Lab | akshifan</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+
+  <main class="container">
+
+    <header class="header">
+      <div>
+        <span class="eyebrow">GITHUB / ACTIVITY LAB</span>
+        <h1>Code. Build. Repeat.</h1>
+        <p>365 days of contributions, visualized.</p>
+      </div>
+
+      <a href="https://github.com/akshifan" target="_blank">
+        @akshifan ↗
+      </a>
+    </header>
+
+    <section class="stats" id="stats">
+      <div class="stat">
+        <span>Total contributions</span>
+        <strong id="total">--</strong>
+      </div>
+      <div class="stat">
+        <span>Current streak</span>
+        <strong id="streakStat">--</strong>
+      </div>
+      <div class="stat">
+        <span>Best day</span>
+        <strong id="best">--</strong>
+      </div>
+    </section>
+
+    <section class="visualization">
+      <div class="section-heading">
+        <span>01 / THE GRID</span>
+        <button data-replay="grid">Replay ↻</button>
+      </div>
+      <canvas id="grid"></canvas>
+      <div id="tooltip"></div>
+    </section>
+
+    <section class="visualization">
+      <div class="section-heading">
+        <span>02 / THE SKYLINE</span>
+        <button data-replay="skyline">Replay ↻</button>
+      </div>
+      <canvas id="skyline"></canvas>
+    </section>
+
+    <section class="visualization">
+      <div class="section-heading">
+        <span>03 / WEEKLY PULSE</span>
+        <button data-replay="pulse">Replay ↻</button>
+      </div>
+      <canvas id="pulse"></canvas>
+    </section>
+
+    <section class="visualization">
+      <div class="section-heading">
+        <span>04 / ROUND THE YEAR</span>
+        <button data-replay="ring">Replay ↻</button>
+      </div>
+      <canvas id="ring"></canvas>
+    </section>
+
+    <section class="visualization">
+      <div class="section-heading">
+        <span>05 / THE STREAK</span>
+        <button data-replay="streak">Replay ↻</button>
+      </div>
+      <canvas id="streakCanvas"></canvas>
+    </section>
+
+    <section class="visualization">
+      <div class="section-heading">
+        <span>06 / THE TERMINAL</span>
+        <button data-replay="terminal">Replay ↻</button>
+      </div>
+      <canvas id="terminal"></canvas>
+    </section>
+
+    <footer>
+      <p>Generated from real GitHub contribution data.</p>
+      <a href="https://github.com/akshifan">GitHub / akshifan</a>
+    </footer>
+
+  </main>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
